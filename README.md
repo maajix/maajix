@@ -1,22 +1,271 @@
-<h1 align="center">Hi 👋, I'm Majx Max</h1>
-<h3 align="center">Penetrationtester</h3>
+<!--
+  Modern Pentesting / Cybersecurity GitHub Profile README
+  Replace:
+  - maajix with your GitHub username
+  - max-randhahn / maajix.github.io / maajix.github.io if desired
+-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maajix&label=Profile%20views&color=0e75b6&style=flat" alt="maajix" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maajix" alt="maajix" /></a> </p>
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> `root@github:~# whoami`
 
-<p align="left"> <a href="https://twitter.com/majix_de" target="blank"><img src="https://img.shields.io/twitter/follow/majix_de?logo=twitter&style=for-the-badge" alt="majix_de" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=700&color=00FF9C&center=true&vCenter=true&width=850&lines=Penetration+Tester;Web+Application+Security+Specialist;Offensive+Security+Researcher;API+Security+%7C+Auth+Bypass+%7C+Recon;Breaking+Things+to+Make+Them+Safer" alt="Typing SVG" />
 
-- 🔭 I’m currently working on **hacking things**
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/majix_de" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="majix_de" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/max-randhahn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="max-randhahn" height="30" width="40" /></a>
-</p>
+<img src="https://img.shields.io/badge/STATUS-OPERATING-00ff9c?style=for-the-badge&labelColor=111111">
+<img src="https://komarev.com/ghpvc/?username=maajix&style=for-the-badge&color=00ff9c&label=PROFILE+VIEWS">
+<img src="https://img.shields.io/github/followers/maajix?style=for-the-badge&color=00ff9c&labelColor=111111">
+<img src="https://img.shields.io/github/stars/maajix?style=for-the-badge&color=00ff9c&labelColor=111111">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+</div>
 
+---
 
+<div align="center">
 
+```txt
+┌──(max㉿github)-[~/profile]
+└─$ ./init_operator.sh
+
+[+] Loading offensive security profile...
+[+] Web security modules initialized
+[+] Recon mindset enabled
+[+] Report-writing discipline loaded
+[+] Legal authorization required: TRUE
+```
+
+</div>
+
+---
+
+## `./about`
+
+I am a **Penetration Tester** focused on practical, real-world security testing with a strong emphasis on **web applications**, **APIs**, and **authentication / authorization flaws**.
+
+I like turning complex attack surfaces into clear findings, reproducible proof-of-concepts, and actionable remediation guidance.
+
+```yaml
+operator:
+  name: Max
+  role: Penetration Tester
+  location: Germany
+  focus:
+    - Web Application Security
+    - API Security
+    - Authentication & Authorization
+    - Vulnerability Validation
+    - Secure Code Review
+    - Offensive Automation
+  mindset: "enumerate -> understand -> exploit -> document -> harden"
+  rule_zero: "Only test systems with explicit authorization."
+```
+
+---
+
+## `./current_focus`
+
+```bash
+cat focus.txt
+```
+
+```txt
+> Deepening methodology for modern web app pentests
+> Building small tools that automate boring recon
+> Improving finding quality, exploit clarity, and remediation value
+> Practicing CTFs and real-world attack chain thinking
+> Researching auth, business logic, and API abuse patterns
+```
+
+---
+
+## `./arsenal`
+
+<div align="center">
+
+### Languages & Scripting
+
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=00FF9C">
+
+### Security Toolkit
+
+<img src="https://img.shields.io/badge/Burp%20Suite-111111?style=for-the-badge&logo=burpsuite&logoColor=FF6633">
+<img src="https://img.shields.io/badge/OWASP-111111?style=for-the-badge&logo=owasp&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/Nmap-111111?style=for-the-badge&logo=gnometerminal&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/Metasploit-111111?style=for-the-badge&logo=kalilinux&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=00FF9C">
+
+</div>
+
+---
+
+## `./specializations`
+
+```txt
+drwxr-xr-x  web-application-security
+drwxr-xr-x  api-security-testing
+drwxr-xr-x  auth-and-access-control
+drwxr-xr-x  recon-and-enumeration
+drwxr-xr-x  secure-code-review
+drwxr-xr-x  vulnerability-validation
+drwxr-xr-x  exploitation-methodology
+drwxr-xr-x  reporting-and-remediation
+```
+
+### Things I enjoy breaking, responsibly
+
+- Authentication flows
+- Session management
+- Authorization boundaries
+- APIs and hidden endpoints
+- Input validation layers
+- Business logic assumptions
+- Security headers and browser-side controls
+- File upload and parser logic
+- Access control models
+- Misconfigured cloud or containerized environments
+
+---
+
+## `./methodology`
+
+```mermaid
+flowchart LR
+    A[Scope] --> B[Recon]
+    B --> C[Map Attack Surface]
+    C --> D[Threat Model]
+    D --> E[Test]
+    E --> F[Exploit Carefully]
+    F --> G[Validate Impact]
+    G --> H[Document]
+    H --> I[Remediate]
+    I --> J[Retest]
+```
+
+```bash
+while read target; do
+  enumerate "$target"
+  map_attack_surface "$target"
+  test_controls "$target"
+  validate_impact "$target"
+  write_clear_report "$target"
+done < authorized_scope.txt
+```
+
+---
+
+## `./featured_projects`
+
+> Pin your best repositories here. Keep it clean, focused, and useful.
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛰️ Recon Automation
+Small scripts and workflows for repeatable enumeration.
+
+`python` `bash` `httpx` `nuclei` `amass`
+
+</td>
+<td width="50%">
+
+### 🧪 Web Security Labs
+Payload notes, vulnerable labs, and writeups.
+
+`owasp` `burp` `websec` `ctf`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔐 Auth Testing Notes
+Checklists for login, session, JWT, OAuth, and access control testing.
+
+`auth` `oauth` `jwt` `idor`
+
+</td>
+<td width="50%">
+
+### 🧰 Pentest Utilities
+Tiny tools that remove friction during assessments.
+
+`cli` `automation` `security`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `./github_stats`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=maajix&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9" alt="GitHub Stats" />
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=maajix&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="GitHub Streak" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maajix&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" alt="Top Languages" />
+
+</div>
+
+---
+
+## `./terminal`
+
+```bash
+┌──(max㉿github)-[~/notes]
+└─$ grep -r "security" mindset.md
+```
+
+```txt
+security is not a checkbox
+security is not a single scan
+security is a process of understanding assumptions
+security improves when findings become fixes
+```
+
+---
+
+## `./connect`
+
+<div align="center">
+
+<a href="https://github.com/maajix">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=00FF9C">
+</a>
+<a href="https://linkedin.com/in/max-randhahn">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=00FF9C">
+</a>
+<a href="https://maajix.github.io">
+  <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=firefoxbrowser&logoColor=00FF9C">
+</a>
+<a href="https://maajix.github.io">
+  <img src="https://img.shields.io/badge/Blog-111111?style=for-the-badge&logo=hashnode&logoColor=00FF9C">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```txt
+┌──(max㉿github)-[~]
+└─$ echo "Hack responsibly. Report clearly. Fix thoroughly."
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff9c&height=120&section=footer"/>
+
+</div>
