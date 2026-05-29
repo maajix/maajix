@@ -1,13 +1,13 @@
 <!--
   GitHub Profile README for maajix
-  Theme: Modern Web Hacking / Pentesting
+  Theme: Modern Web Security / Pentesting
 -->
 
 <div align="center">
 
-# `maajix@github:~$ whoami`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff9c&height=140&section=header&text=maajix&fontColor=0d1117&fontSize=48&fontAlignY=35&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2300&pause=800&color=00FF9C&center=true&vCenter=true&width=780&lines=Penetration+Tester;Web+Application+Security;API+Security;Auth+Bypass+%7C+IDOR+%7C+XSS+%7C+SSRF;Breaking+Apps+to+Make+Them+Safer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2300&pause=900&color=00FF9C&center=true&vCenter=true&width=760&lines=Penetration+Tester;Web+Application+Security;API+Security;Authentication+%26+Access+Control;Security+Research+%26+Tooling" alt="Typing SVG" />
 
 <br>
 
@@ -19,37 +19,29 @@
 
 ---
 
-```txt
-┌──(maajix㉿web)-[~/profile]
-└─$ cat about.txt
+## About
 
-Penetration Tester focused on modern Web Application Security.
-I like finding real impact in messy attack surfaces:
-auth flaws, access control bugs, APIs, business logic, and client-side weirdness.
+I'm a penetration tester focused on **web application security**, **API security**, and **access control issues**.
 
-Methodology: enumerate → understand → exploit carefully → document clearly → help fix
-Rule zero: only test systems with explicit authorization.
-```
+I enjoy understanding how applications work, finding practical security impact, and turning findings into clear, useful reports.
 
 ---
 
-## `./web-hacking-focus`
+## Focus Areas
 
-```yaml
-focus:
-  - Web Application Pentesting
-  - API Security Testing
-  - Authentication & Authorization
-  - IDOR / BOLA / Broken Access Control
-  - XSS, CSRF, SSRF, SQLi
-  - Business Logic Abuse
-  - Secure Code Review
-  - Practical Exploit Validation
-```
+<div align="center">
+
+<img src="https://img.shields.io/badge/Web%20Security-111111?style=for-the-badge&logo=firefoxbrowser&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/API%20Security-111111?style=for-the-badge&logo=postman&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/Auth%20Testing-111111?style=for-the-badge&logo=jsonwebtokens&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/Access%20Control-111111?style=for-the-badge&logo=openid&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/Secure%20Code%20Review-111111?style=for-the-badge&logo=git&logoColor=00FF9C">
+
+</div>
 
 ---
 
-## `./toolbox`
+## Toolbox
 
 <div align="center">
 
@@ -65,21 +57,7 @@ focus:
 
 ---
 
-## `./things-i-like-to-break`
-
-```txt
-[+] Login flows and session handling
-[+] Role checks and permission boundaries
-[+] APIs, hidden endpoints, and object-level authorization
-[+] Input validation and parser edge cases
-[+] File upload logic
-[+] Client-side assumptions
-[+] Business workflows that trust the frontend too much
-```
-
----
-
-## `./github`
+## GitHub
 
 <div align="center">
 
@@ -91,7 +69,7 @@ focus:
 
 ---
 
-## `./connect`
+## Connect
 
 <div align="center">
 
@@ -107,15 +85,10 @@ focus:
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-```txt
-hack responsibly · report clearly · fix properly
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff9c&height=110&section=footer" />
 
 </div>
-
-
-
