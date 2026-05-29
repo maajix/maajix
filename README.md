@@ -19,9 +19,7 @@
 
 ## About
 
-I'm a penetration tester focused on **web application security**, **API security**, and **access control issues**.
-
-I enjoy understanding how applications work, finding practical security impact, and turning findings into clear, useful reports.
+I love breaking things.
 
 ---
 
