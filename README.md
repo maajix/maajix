@@ -12,8 +12,6 @@
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=maajix&style=for-the-badge&color=00ff9c&label=PROFILE+VIEWS">
-<img src="https://img.shields.io/github/followers/maajix?style=for-the-badge&color=00ff9c&labelColor=111111">
-<img src="https://img.shields.io/github/stars/maajix?style=for-the-badge&color=00ff9c&labelColor=111111">
 
 </div>
 
